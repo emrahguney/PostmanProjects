@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "612a97b3-3725-4b96-85fa-a7eaf7d2ddd9",
+		"name": "Trello-API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "ee08fde8-c997-493d-b9f5-82146783f85a",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
