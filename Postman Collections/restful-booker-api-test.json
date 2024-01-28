@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "5530694c-3bed-4035-b6f8-feaa876cab3e",
-		"name": "New Collection",
+		"name": "Restful-Booker-API",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
